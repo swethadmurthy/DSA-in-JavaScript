@@ -1,0 +1,13 @@
+{
+    "name" : "DSA-Js-1",
+    "version": "1.0.0",
+    "main": "queues.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "author": "Swetha Dakshinamurthy",
+    "devDependencies": {
+        "jest": "^23.6.0"
+    }
+}
